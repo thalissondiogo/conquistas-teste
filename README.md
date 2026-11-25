@@ -5,3 +5,4 @@ Repositório de teste para experimentar o fluxo de issues e pull requests do Git
 ## Anotações
 
 - Fluxo de issue validado: abertura e fechamento registrados na issue #1.
+- Primeiro pull request de teste mergeado na branch principal.
